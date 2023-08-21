@@ -1,0 +1,8 @@
+# Ignore virtualenvs
+venv
+
+# Ignore exe files
+*.exe
+
+# Ignore VSCode settings
+.vscode
